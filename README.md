@@ -21,7 +21,7 @@ Calculator (input view)
 ![Calculator](./public/calculator.png)
 
 Results (example output)
-![Results](./public/output.jpg)
+![Results](./public/output.png)
 
 ## Quick start — clone, install, run
 
