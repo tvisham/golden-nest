@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap");
+
+:root {
+  --brand-1: #FF6B6B;
+  --brand-2: #FFD93D;
+  --accent: #6BCB77;
+  --muted: #6b7280;
+  --bg: #F8FAFC;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, var(--bg) 0%, #ffffff 60%);
+  margin: 0;
+  padding: 0;
+  color: #0f172a;
+}
+
+/* Soft rounded inputs and buttons */
+input, button, textarea {
+  border-radius: 8px;
+}
+
+/* Custom Scrollbar */
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+  border-radius: 5px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: #9b9b9b;
+}
