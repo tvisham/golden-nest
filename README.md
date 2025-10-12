@@ -64,16 +64,7 @@ The app runs at http://localhost:3000 by default.
 
 ## Contributing
 - Found a bug or want to add a feature? Open an issue or send a pull request.
-- Keep changes small and focused. Add unit tests where appropriate.
-
+  
 ## License & Credits
 - MIT License — Copyright (c) 2023 Tvisha Mishra
 
----
-
-If you'd like, I can also:
-- add examples of input values and expected outputs
-- wire up a prettier/ESLint config
-- add more screenshots or a short demo GIF
-
-Enjoy planning — and ping me if you want the README tailored to a live deployment or GitHub Pages setup.
